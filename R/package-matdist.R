@@ -21,7 +21,12 @@
 #'
 #' @docType package
 #' @name matdist
+#'
+#' @references
+#' \insertRef{thebook}{matdist}
+#'
 #' @import Rlinsolve
+#' @import Rdpack
 #' @importFrom stats rWishart rnorm
 #' @importFrom utils installed.packages
 #' @importFrom RcppZiggurat zrnorm

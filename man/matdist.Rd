@@ -27,3 +27,6 @@ For each function, currently we support prefix \code{d} and \code{r}
 for \emph{density evaluation} and \emph{random generation}, respectively.
 }
 
+\references{
+\insertRef{thebook}{matdist}
+}

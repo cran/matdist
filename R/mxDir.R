@@ -15,7 +15,6 @@
 #' sDir1 = rmxDir1(4,a=c(6,7,8,9),S=diag(4))
 #' sDir2 = rmxDir2(4,a=c(9,8,7,6))
 #'
-#'
 #' @name mxDir
 #' @rdname mxDir
 NULL
